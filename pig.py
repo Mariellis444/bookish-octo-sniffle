@@ -6,3 +6,5 @@ def roll():
     roll = random.randin(min_value, max_value)
 
     return roll 
+
+print(roll)
