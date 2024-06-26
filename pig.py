@@ -7,4 +7,5 @@ def roll():
 
     return roll 
 
+value = roll()
 print(roll)
